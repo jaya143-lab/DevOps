@@ -3,4 +3,8 @@ evry
 hi
 
 aws
+<<<<<<< HEAD
 devops training
+=======
+modified
+>>>>>>> origin
